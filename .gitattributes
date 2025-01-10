@@ -1,0 +1,11 @@
+# 自动检测文本文件并进行标准化
+* text=auto
+
+# 指定文件类型的换行符
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.html text eol=lf
